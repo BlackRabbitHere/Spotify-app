@@ -14,9 +14,8 @@ This project is a simplified version of Spotify's web interface, built entirely 
 - **Album/Playlist Section**: A grid layout to display playlists and album covers.
 - **Responsive Design**: The layout adjusts for mobile and desktop screen sizes.
 
-## Screenshots
-
-![Screenshot](./screenshot.png)
+## Page Preview
+https://blackrabbithere.github.io/Spotify-app/
 
 ## Technologies Used
 
